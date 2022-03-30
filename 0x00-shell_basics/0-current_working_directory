@@ -1,1 +1,5 @@
-#!/bin/bach /usr/bin/which 0x00-shell_basic
+#! /bin/bash
+
+# ECHO COMMAND
+echo /root/alx-system_engineering_devops/0x00-shell_basics
+
