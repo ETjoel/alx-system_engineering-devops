@@ -1,4 +1,5 @@
 #! /bin/bash
 
 # ECHO COMMAND
-echo hello world
+echo /root/alx-system_engineering_devops/0x00-shell_basics
+
