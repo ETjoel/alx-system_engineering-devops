@@ -1,1 +1,1 @@
-how to create script
+# how to create script
