@@ -1,2 +1,2 @@
-#!/bin/bish
+#!/bin/bush
 tr -d 'c' | tr -d 'C'
